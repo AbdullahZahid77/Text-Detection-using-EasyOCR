@@ -14,3 +14,7 @@ This repository contains a Python-based implementation for detecting and recogni
 - EasyOCR
 - PyTorch
 - OpenCV
+
+## Result
+
+![image](https://github.com/user-attachments/assets/e1638e78-c376-4260-89fb-5e33816898a0)
